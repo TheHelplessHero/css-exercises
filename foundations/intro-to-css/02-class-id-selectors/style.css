@@ -1,0 +1,19 @@
+.alpha {
+    background-color: #FF9999;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.alpha.beta {
+    font-size: 24px;
+}
+
+#ichi {
+   color: blue;
+   font-size: 36px; 
+}
+
+#ni {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
